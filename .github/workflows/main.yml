@@ -2,8 +2,8 @@ on:
   push:
     branches:
       - master
- 
-name: Build My Apps
+
+name: CareDoot
 
 jobs:
   build:
